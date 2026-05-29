@@ -205,11 +205,3 @@ walmart-revenue-intelligence-platform/
 * Real-time data pipelines
 * Power BI Service deployment
 
----
-
-# About
-
-I build data systems that drive **business decisions — not just dashboards**.
-
-🔗 LinkedIn
-💻 GitHub
